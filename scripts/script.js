@@ -27,7 +27,7 @@ function fancyNav(int)
 
 function loadAbtMe()
 {
-    main.innerHTML = "<a href="workp">Test</a>"
+    main.innerHTML = "<a href='workp'>Test</a>"
     main.style.backgroundImage = "none"
     audio.pause();
 }
