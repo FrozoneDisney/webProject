@@ -27,7 +27,7 @@ function fancyNav(int)
 
 function loadAbtMe()
 {
-    //main.innerHTML = "<h3>I am epic???</h3><br><p>My mom is epic and based, and so am i idiot</p>"
+    main.innerHTML = "<a href="workp">Test</a>"
     main.style.backgroundImage = "none"
     audio.pause();
 }
