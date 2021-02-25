@@ -1,0 +1,15 @@
+#board
+{
+    width: 900px;
+    height: 900px;
+    box-sizing: border-box;
+}
+
+.chessSquare
+{
+    width: 112.5px;
+    height: 112.5px;
+    display: inline-block;
+    box-sizing: border-box;
+    color:blue;
+}

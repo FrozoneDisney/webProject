@@ -20,14 +20,14 @@ function fancyNav(int)
         case 1:
             page0.style.borderBottom = "none"
             page1.style.borderBottom = "2px solid azure"
-            loadAmgUs();
+            //loadAmgUs();
             break;
     }
 }
 
 function loadAbtMe()
 {
-    main.innerHTML = "<h3>I am epic???</h3><br><p>My mom is epic and based, and so am i idiot</p>"
+    //main.innerHTML = "<h3>I am epic???</h3><br><p>My mom is epic and based, and so am i idiot</p>"
     main.style.backgroundImage = "none"
     audio.pause();
 }
